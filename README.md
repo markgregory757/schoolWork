@@ -3,7 +3,7 @@
 ## Projects
 ### Project 1
 -- Description
--Links
+- [Github Repository](https://markgregory757.github.io/schoolWork/)
 
 ### Project 2
 -- Description
